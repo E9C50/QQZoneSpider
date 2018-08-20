@@ -2,7 +2,7 @@
 QQ 空间动态爬虫，利用cookie登录获取所有可访问好友空间的动态并保存到本地
 
 需要先安装第三方库 **requests** <br />
-本程序使用的是**python3.5**，在**Linux**下完成。由于自己的电脑上同时有python2.7和python3.5，默认是python2。所以在每个程序头部我写的都是
+本程序使用的是**python3.5**。由于自己的电脑上同时有python2.7和python3.5，默认是python2。所以在每个程序头部我写的都是
 
 ```
 #!/usr/bin/env python3
